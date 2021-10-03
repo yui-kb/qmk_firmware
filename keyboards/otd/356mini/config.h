@@ -3,11 +3,11 @@
 #include "config_common.h"
 
 /* USB Device descriptor parameter */
-#define VENDOR_ID 0x6969
-#define PRODUCT_ID 0x6969
+#define VENDOR_ID 0x0356
+#define PRODUCT_ID 0x7778 //77 - M, 78 - N
 #define DEVICE_VER 0x0001
 #define MANUFACTURER OTD
-#define PRODUCT 356Mini
+#define PRODUCT OTD 356Mini
 
 /* key matrix size */
 #define MATRIX_ROWS 15

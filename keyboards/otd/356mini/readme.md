@@ -8,6 +8,8 @@ QMK Port for the Original PCB for the OTD 356mini
 * Hardware Supported: Winkey OTD 356Mini OG PCB (Untested on Winkeyless PCB)
 * Hardware Availability: Lol
 
+When first flashing QMK on this board, you will need to install a bootloader. Please refer to [this guide](https://docs.google.com/document/d/1f5sS7QBaNn_NseunpxUSlT5rSZo2DhrCcv0pXPtK2PY/edit#) for now.
+
 Make example for this keyboard (after setting up your build environment):
 
     make otd/356mini:default
